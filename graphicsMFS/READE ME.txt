@@ -1,0 +1,1 @@
+copiar el mfs.exe a la carpeta del build
